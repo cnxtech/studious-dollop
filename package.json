@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "debug": "^2.6.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "body-parser": "1.17.1",
     "gun": "^0.2020.1235",
     "morgan": "^1.8.1"
